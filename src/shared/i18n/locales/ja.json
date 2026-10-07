@@ -1822,6 +1822,7 @@
     "Max tokens": "最大トークン数",
     "Maximize": "最大化する",
     "Mention {{name}}": "{{name}}をメンション",
+    "Drop to mention in chat": "チャットでメンションするにはここにドロップ",
     "Mermaid syntax could not be rendered": "Mermaid 構文をレンダリングできませんでした",
     "Message center": "メッセージセンター",
     "Message revision": "メッセージの改訂",

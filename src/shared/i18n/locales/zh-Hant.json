@@ -1908,6 +1908,7 @@
     "Max tokens": "詞元上限",
     "Maximize": "最大化",
     "Mention {{name}}": "提及 {{name}}",
+    "Drop to mention in chat": "拖放到此處以在對話中提及",
     "Mermaid syntax could not be rendered": "無法渲染 Mermaid 語法",
     "Message center": "訊息中心",
     "Message revision": "訊息版本",

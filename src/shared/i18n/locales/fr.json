@@ -1891,6 +1891,7 @@
     "Max tokens": "Nombre maximum de jetons",
     "Maximize": "Maximiser",
     "Mention {{name}}": "Mentionner {{name}}",
+    "Drop to mention in chat": "Déposer pour mentionner dans le chat",
     "Mermaid syntax could not be rendered": "La syntaxe de la sirène n'a pas pu être rendue",
     "Message center": "Centre de messages",
     "Message revision": "Révision du message",

@@ -1892,6 +1892,7 @@
     "Max tokens": "Máximo de tokens",
     "Maximize": "Maximizar",
     "Mention {{name}}": "Mencionar a {{name}}",
+    "Drop to mention in chat": "Suelta para mencionar en el chat",
     "Mermaid syntax could not be rendered": "No se pudo representar la sintaxis de Mermaid",
     "Message center": "Centro de mensajes",
     "Message revision": "Revisión del mensaje",

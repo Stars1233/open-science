@@ -1895,6 +1895,7 @@
     "Maximum output tokens must be a positive whole number of tokens.": "Максимальное количество выходных токенов должно быть положительным целым числом.",
     "Maximize": "Развернуть",
     "Mention {{name}}": "Упомянуть {{name}}",
+    "Drop to mention in chat": "Отпустите, чтобы упомянуть в чате",
     "Mermaid syntax could not be rendered": "Не удалось отобразить диаграмму Mermaid",
     "Message center": "Центр сообщений",
     "Message revision": "Версия сообщения",

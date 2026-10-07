@@ -1837,6 +1837,7 @@
     "Max tokens": "최대 토큰",
     "Maximize": "최대화",
     "Mention {{name}}": "멘션 추가: {{name}}",
+    "Drop to mention in chat": "채팅에서 멘션하려면 여기에 드롭하세요",
     "Mermaid syntax could not be rendered": "Mermaid 구문을 렌더링할 수 없습니다.",
     "Message center": "메시지 센터",
     "Message revision": "메시지 개정판",
