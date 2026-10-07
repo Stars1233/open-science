@@ -242,6 +242,9 @@ schema module is generated; do not edit it or add feature DDL to startup code.
    migration or extend the frozen `0001` legacy repair list.
 4. Run `npm run db:schema:check` and the migration tests before committing.
 
+Application table names use singular PascalCase and default to the Prisma model name. Avoid
+`@@map` unless an intentional external database contract requires a different physical name.
+
 Prisma CLI is a development and CI tool only. Packaged applications execute the checked-in
 migration manifest and do not ship the Prisma migrate engine.
 
